@@ -1,10 +1,10 @@
 ---
-emoji: 🔮
-title: Gatsby 테마로 GitHub Blog 만들기
-date: '2021-07-06 00:00:00'
-author: 줌코딩
-tags: 블로그 github-pages gatsby
-categories: 블로그 featured
+emoji: 🙌
+title: WAGGLE의 Commit Convention
+date: '2023-12-20 00:00:00'
+author: 유희진
+tags: Convention
+categories: Convention
 ---
 
 ## Commit Message Form
@@ -55,3 +55,6 @@ board 도메인에서 게시물을 생성하는 테스트 코드를 @WebMvcTest�
 ## 참고 사이트
 
 [AngluarJS commit convention (번역본)](https://velog.io/@outstandingboy/Git-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%B7%9C%EC%95%BD-%EC%A0%95%EB%A6%AC-the-AngularJS-commit-conventions#%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80-%ED%97%A4%EB%8D%94-commit-message-header)
+
+```toc
+```
